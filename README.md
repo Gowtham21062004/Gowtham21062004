@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
+- 💬 Ask me about **I am Gowtham V, a motivated and detail-oriented Frontend Developer with a solid foundation in web technologies and a passion for creating dynamic and user-centric web experiences. Recently graduated with hands-on experience in developing responsive and interactive websites, I am eager to leverage my skills in HTML, CSS, and JavaScript to contribute to innovative projects and dynamic teams.**
+
 - 📫 How to reach me **gowthamv187@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
